@@ -1,0 +1,7 @@
+mi_app/
+├── app.py
+├── templates/
+│   └── index.html
+├── requirements.txt
+├── .gitignore
+└── venv/
